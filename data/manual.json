@@ -1,0 +1,178 @@
+[
+  {
+    "id": "sensor",
+    "title": "Sensor configuration",
+    "facts": [
+      {
+        "label": "Sample interval",
+        "value": "60 seconds"
+      },
+      {
+        "label": "Temperature range",
+        "value": "-20 to 60 °C"
+      },
+      {
+        "label": "Humidity resolution",
+        "value": "1% RH"
+      },
+      {
+        "label": "Warm-up time",
+        "value": "2 minutes"
+      }
+    ]
+  },
+  {
+    "id": "radio",
+    "title": "Radio link",
+    "facts": [
+      {
+        "label": "Default transmit power",
+        "value": "14 dBm"
+      },
+      {
+        "label": "Join retry delay",
+        "value": "30 seconds"
+      },
+      {
+        "label": "Maximum payload",
+        "value": "48 bytes"
+      },
+      {
+        "label": "Link indicator",
+        "value": "blue LED"
+      }
+    ]
+  },
+  {
+    "id": "logging",
+    "title": "Local storage",
+    "facts": [
+      {
+        "label": "Offline buffer capacity",
+        "value": "500 readings"
+      },
+      {
+        "label": "Log retention",
+        "value": "7 days"
+      },
+      {
+        "label": "Export format",
+        "value": "CSV"
+      },
+      {
+        "label": "Clock standard",
+        "value": "UTC"
+      }
+    ]
+  },
+  {
+    "id": "power",
+    "title": "Battery and power",
+    "facts": [
+      {
+        "label": "Battery type",
+        "value": "two AA lithium cells"
+      },
+      {
+        "label": "Low battery threshold",
+        "value": "20%"
+      },
+      {
+        "label": "USB input",
+        "value": "5 V"
+      },
+      {
+        "label": "Display timeout",
+        "value": "15 seconds"
+      }
+    ]
+  },
+  {
+    "id": "mounting",
+    "title": "Installation",
+    "facts": [
+      {
+        "label": "Mounting height",
+        "value": "1.5 metres"
+      },
+      {
+        "label": "Enclosure rating",
+        "value": "IP54"
+      },
+      {
+        "label": "Indoor clearance",
+        "value": "10 cm"
+      },
+      {
+        "label": "Bracket screw size",
+        "value": "M4"
+      }
+    ]
+  },
+  {
+    "id": "maintenance",
+    "title": "Maintenance",
+    "facts": [
+      {
+        "label": "Calibration interval",
+        "value": "six months"
+      },
+      {
+        "label": "Cleaning material",
+        "value": "dry microfiber cloth"
+      },
+      {
+        "label": "Factory reset hold time",
+        "value": "10 seconds"
+      },
+      {
+        "label": "Service mode indicator",
+        "value": "amber LED"
+      }
+    ]
+  },
+  {
+    "id": "gateway",
+    "title": "Gateway operation",
+    "facts": [
+      {
+        "label": "Local dashboard port",
+        "value": "8080"
+      },
+      {
+        "label": "Supported uplink",
+        "value": "Ethernet"
+      },
+      {
+        "label": "Maximum paired nodes",
+        "value": "32 nodes"
+      },
+      {
+        "label": "Heartbeat interval",
+        "value": "5 minutes"
+      }
+    ]
+  },
+  {
+    "id": "alerts",
+    "title": "Alert configuration",
+    "facts": [
+      {
+        "label": "Initial alert delivery",
+        "value": "email"
+      },
+      {
+        "label": "Default alert cooldown",
+        "value": "10 minutes"
+      },
+      {
+        "label": "Temperature alarm default",
+        "value": "45 °C"
+      },
+      {
+        "label": "Alert history view",
+        "value": "last 100 alerts"
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+{"id":"q01","question":"How often does the sensor sample readings?","answer":"60 seconds","aliases":["1 minute"],"citations":["sensor"]}
+{"id":"q02","question":"What is the supported temperature range?","answer":"-20 to 60 °C","aliases":["-20 to 60 C"],"citations":["sensor"]}
+{"id":"q03","question":"What is the humidity measurement resolution?","answer":"1% RH","aliases":[],"citations":["sensor"]}
+{"id":"q04","question":"How much warm-up time does the sensor need?","answer":"2 minutes","aliases":["120 seconds"],"citations":["sensor"]}
+{"id":"q05","question":"What is the default transmit power?","answer":"14 dBm","aliases":[],"citations":["radio"]}
+{"id":"q06","question":"What is the delay before a join retry?","answer":"30 seconds","aliases":[],"citations":["radio"]}
+{"id":"q07","question":"What is the largest radio message payload?","answer":"48 bytes","aliases":[],"citations":["radio"]}
+{"id":"q08","question":"Which link indicator shows radio activity?","answer":"blue LED","aliases":[],"citations":["radio"]}
+{"id":"q09","question":"How many readings can the offline buffer hold?","answer":"500 readings","aliases":[],"citations":["logging"]}
+{"id":"q10","question":"How long is a log retained?","answer":"7 days","aliases":["one week"],"citations":["logging"]}
+{"id":"q11","question":"In what format are exports saved?","answer":"CSV","aliases":[],"citations":["logging"]}
+{"id":"q12","question":"Which time standard does the logger use?","answer":"UTC","aliases":[],"citations":["logging"]}
+{"id":"q13","question":"What battery type powers the device?","answer":"two AA lithium cells","aliases":["2 AA lithium cells"],"citations":["power"]}
+{"id":"q14","question":"At what threshold does the low battery warning appear?","answer":"20%","aliases":[],"citations":["power"]}
+{"id":"q15","question":"What voltage does the USB input accept?","answer":"5 V","aliases":["5 volts"],"citations":["power"]}
+{"id":"q16","question":"When does the display time out?","answer":"15 seconds","aliases":[],"citations":["power"]}
+{"id":"q17","question":"What mounting height does the manual recommend?","answer":"1.5 metres","aliases":["1.5 meters","150 cm"],"citations":["mounting"]}
+{"id":"q18","question":"What enclosure rating does the unit have?","answer":"IP54","aliases":[],"citations":["mounting"]}
+{"id":"q19","question":"How much indoor clearance should I leave?","answer":"10 cm","aliases":["100 mm"],"citations":["mounting"]}
+{"id":"q20","question":"What screw size fits the mounting bracket?","answer":"M4","aliases":[],"citations":["mounting"]}
+{"id":"q21","question":"How often should I calibrate the sensor?","answer":"six months","aliases":["6 months"],"citations":["maintenance"]}
+{"id":"q22","question":"What material is recommended for cleaning?","answer":"dry microfiber cloth","aliases":["dry microfibre cloth"],"citations":["maintenance"]}
+{"id":"q23","question":"How long should I hold the reset button?","answer":"10 seconds","aliases":[],"citations":["maintenance"]}
+{"id":"q24","question":"What indicator appears in service mode?","answer":"amber LED","aliases":[],"citations":["maintenance"]}
+{"id":"q25","question":"Which port does the local dashboard use?","answer":"8080","aliases":[],"citations":["gateway"]}
+{"id":"q26","question":"Which network uplink is supported?","answer":"Ethernet","aliases":[],"citations":["gateway"]}
+{"id":"q27","question":"How many nodes can the gateway pair with?","answer":"32 nodes","aliases":["32"],"citations":["gateway"]}
+{"id":"q28","question":"How frequently is a heartbeat sent?","answer":"5 minutes","aliases":["300 seconds"],"citations":["gateway"]}
+{"id":"q29","question":"How are initial alerts delivered?","answer":"email","aliases":[],"citations":["alerts"]}
+{"id":"q30","question":"What is the default alert cooldown?","answer":"10 minutes","aliases":["600 seconds"],"citations":["alerts"]}
+{"id":"q31","question":"At what temperature is the default alarm set?","answer":"45 °C","aliases":["45 C"],"citations":["alerts"]}
+{"id":"q32","question":"How many alerts are shown in the history view?","answer":"last 100 alerts","aliases":["100 alerts","100"],"citations":["alerts"]}
+{"id":"q33","question":"What is the retail price in India?","answer":null,"aliases":[],"citations":[]}
+{"id":"q34","question":"What is the warranty duration?","answer":null,"aliases":[],"citations":[]}
+{"id":"q35","question":"Is the enclosure sold in black?","answer":null,"aliases":[],"citations":[]}
+{"id":"q36","question":"What is the sensor serial number?","answer":null,"aliases":[],"citations":[]}
+{"id":"q37","question":"Which mobile operating systems have a companion app?","answer":null,"aliases":[],"citations":[]}
+{"id":"q38","question":"Does the USB cable ship in the box?","answer":null,"aliases":[],"citations":[]}
+{"id":"q39","question":"Who manufactures the battery cells?","answer":null,"aliases":[],"citations":[]}
+{"id":"q40","question":"Where can I download a 3D model of the bracket?","answer":null,"aliases":[],"citations":[]}
